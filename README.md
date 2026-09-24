@@ -30,10 +30,13 @@ and caring perhaps a little too much about complexity.
 
 ---
 
-### // things I reach for
+### // toolbox
 
-`C++` `Python` `TypeScript` `React` `Next.js`  
-`PyTorch` `CUDA` `PostgreSQL` `Redis` `Linux`
+**Languages** — `C++` `C` `Go` `Python` `TypeScript` `JavaScript` `Java` `SQL` `Bash`  
+**Systems** — `Linux` `Multithreading` `Concurrency` `epoll` `Sockets` `TCP/HTTP` `gRPC` `gdb` `perf` `Valgrind`  
+**Cloud & DevOps** — `AWS` `EC2` `S3` `ECS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Prometheus`  
+**Backend & Data** — `Node.js` `Django` `Flask` `GraphQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `Prisma` `Firebase`  
+**Frontend & ML** — `React` `Next.js` `Tailwind CSS` `Flutter` `TensorFlow` `Scikit-learn` `XGBoost` `OpenCV` `LLMs/RAG`
 
 but I'm much more interested in **what gets built** than the stack used to build it.
 
