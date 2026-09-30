@@ -28,8 +28,6 @@ Building **systems, AI tooling, and products end-to-end**.
 
 **Vietnam National Olympiad Medalist** · **ICPC competitor** · **ACPC 2026 — 1st**
 
-Competitive programming taught me to break large problems into smaller ones, reason about constraints, and care perhaps a little too much about complexity.
-
 ---
 
 ### // toolbox
@@ -40,16 +38,15 @@ Competitive programming taught me to break large problems into smaller ones, rea
 **Backend & Data** — `Node.js` `Django` `Flask` `GraphQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `Prisma` `Firebase`  
 **Frontend & ML** — `React` `Next.js` `Tailwind CSS` `Flutter` `TensorFlow` `Scikit-learn` `XGBoost` `OpenCV` `LLMs/RAG`
 
-> interested in **what gets built**, not just what gets used to build it.
-
 ---
 
 ### // outside the editor
 
 🏓 pickleball · 🏋️ gym · 🧩 algorithms & puzzles · 📈 markets / startups / politics
 
----
 <!--
+---
+
 <p align="center">
   <picture>
     <source
