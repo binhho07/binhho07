@@ -49,7 +49,7 @@ Competitive programming taught me to break large problems into smaller ones, rea
 🏓 pickleball · 🏋️ gym · 🧩 algorithms & puzzles · 📈 markets / startups / politics
 
 ---
-
+<!--
 <p align="center">
   <picture>
     <source
@@ -70,3 +70,4 @@ Competitive programming taught me to break large problems into smaller ones, rea
 <p align="center">
   <sub>always building something.</sub>
 </p>
+-->
