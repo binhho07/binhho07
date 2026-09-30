@@ -28,6 +28,8 @@ Building **systems, AI tooling, and products end-to-end**.
 
 **Vietnam National Olympiad Medalist** · **ICPC competitor** · **ACPC 2026 — 1st**
 
+> a lot more
+
 ---
 
 ### // toolbox
