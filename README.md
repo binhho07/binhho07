@@ -1,4 +1,4 @@
-<h1 align="center">Binh Ho</h1>
+<h1 align="center">Hello I'm Binh</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/binhho07/">LinkedIn</a>
 </p>
 
+<!--
 ---
 
 ### // currently
@@ -45,8 +46,8 @@ Building **systems, AI tooling, and products end-to-end**.
 ### // outside the editor
 
 🏓 pickleball · 🏋️ gym · 🧩 algorithms & puzzles · 📈 markets / startups / politics
+-->
 
-<!--
 ---
 
 <p align="center">
@@ -69,4 +70,3 @@ Building **systems, AI tooling, and products end-to-end**.
 <p align="center">
   <sub>always building something.</sub>
 </p>
--->
